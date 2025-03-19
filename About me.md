@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tejaswi2615
-- 👀 I’m interested in technical research and deveelopment
+- 👀 I’m interested in technical research and development
 - 🌱 I’m currently learning artificial intelligence and data science
 
 <!---
